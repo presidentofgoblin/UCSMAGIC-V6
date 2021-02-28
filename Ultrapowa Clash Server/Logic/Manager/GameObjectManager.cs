@@ -269,7 +269,7 @@ namespace UCS.Logic.Manager
                 0
             };
             jsonData.Add("newShopDecos", newShopDecos);
-            jsonData.Add("troop_req_msg", "Ultrapowa Developement");
+            jsonData.Add("troop_req_msg", "i need reinforcements");
             jsonData.Add("last_league_rank", m_vLevel.GetPlayerAvatar().GetLeagueId());
             jsonData.Add("last_league_shuffle", 1);
             jsonData.Add("last_season_seen", 1);
